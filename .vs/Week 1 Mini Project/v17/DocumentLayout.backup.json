@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarathchandrak\\Week 1 Mini Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sarathchandrak\\Week 1 Mini Project\\Assets\\AudienceNetwork\\Editor\\AudienceNetworkDependencies.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AudienceNetwork\\Editor\\AudienceNetworkDependencies.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB499CDD-E6CB-8FA1-C033-B2449F606DFA}|Assembly-CSharp.csproj|c:\\users\\sarathchandrak\\week 1 mini project\\assets\\scripts\\ads\\googleads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB499CDD-E6CB-8FA1-C033-B2449F606DFA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ads\\googleads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudienceNetworkDependencies.xml",
+              "DocumentMoniker": "C:\\Users\\sarathchandrak\\Week 1 Mini Project\\Assets\\AudienceNetwork\\Editor\\AudienceNetworkDependencies.xml",
+              "RelativeDocumentMoniker": "Assets\\AudienceNetwork\\Editor\\AudienceNetworkDependencies.xml",
+              "ToolTip": "C:\\Users\\sarathchandrak\\Week 1 Mini Project\\Assets\\AudienceNetwork\\Editor\\AudienceNetworkDependencies.xml",
+              "RelativeToolTip": "Assets\\AudienceNetwork\\Editor\\AudienceNetworkDependencies.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-28T09:22:39.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoogleAds.cs",
+              "DocumentMoniker": "C:\\Users\\sarathchandrak\\Week 1 Mini Project\\Assets\\Scripts\\Ads\\GoogleAds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ads\\GoogleAds.cs",
+              "ToolTip": "C:\\Users\\sarathchandrak\\Week 1 Mini Project\\Assets\\Scripts\\Ads\\GoogleAds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ads\\GoogleAds.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:53:00.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

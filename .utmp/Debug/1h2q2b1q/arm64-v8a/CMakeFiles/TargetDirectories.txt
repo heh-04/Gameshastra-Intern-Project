@@ -1,0 +1,5 @@
+C:/Users/sarathchandrak/Week 1 Mini Project/.utmp/Debug/1h2q2b1q/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/sarathchandrak/Week 1 Mini Project/.utmp/Debug/1h2q2b1q/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/sarathchandrak/Week 1 Mini Project/.utmp/Debug/1h2q2b1q/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/sarathchandrak/Week 1 Mini Project/.utmp/Debug/1h2q2b1q/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/sarathchandrak/Week 1 Mini Project/.utmp/Debug/1h2q2b1q/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
