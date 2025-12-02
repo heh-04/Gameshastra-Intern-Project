@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 public class PlayerHealth2D : MonoBehaviour, IDamageable2D
@@ -8,7 +7,7 @@ public class PlayerHealth2D : MonoBehaviour, IDamageable2D
 
     private void Start()
     {
-        currentHealth = playerHealthData.MaxHealth;
+        currentHealth = playerHealthData.StartingHealth;
     }
 
     public void HealthChange(int healthChange)

@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Collectible2D : MonoBehaviour
 {
+    public string collectibleId = string.Empty;
     Animator animator;
 
     private void Start()

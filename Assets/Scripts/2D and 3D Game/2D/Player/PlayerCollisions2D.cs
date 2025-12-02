@@ -13,14 +13,19 @@ public class PlayerCollisions2D : MonoBehaviour
     {
         if (other.CompareTag("Finish"))
         {
+            PlayerHighScore.instance.TrySetHighScore(PlayerScore.instance.Score);
             PlayerEvents.Finish();
-
-            PlayerScore.instance.UpdateHighScore();
         }
 
-        if (other.CompareTag("Collectible"))
+        if (other.CompareTag("ScoreCollectible"))
         {
             PlayerScore.instance.AddScore(1);
+        }
+
+        if (other.CompareTag("HealthCollectible"))
+        {
+            PlayerEvents.CollectedHealthBerry(other.GetComponent<Collectible2D>().collectibleId);
+            damageable.HealthChange(+1);
         }
 
         if (other.gameObject.CompareTag("Obstacle"))

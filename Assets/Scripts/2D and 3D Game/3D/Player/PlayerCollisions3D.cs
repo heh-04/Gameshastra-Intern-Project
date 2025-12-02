@@ -8,7 +8,6 @@ public class PlayerCollisions3D : MonoBehaviour
         if (collision.gameObject.CompareTag("Obstacle"))
         {
             PlayerEvents.Death();
-            PlayerScore.instance.UpdateHighScore();
         }
     }
 

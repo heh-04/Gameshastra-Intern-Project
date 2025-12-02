@@ -25,7 +25,7 @@ public class UI_Manager : MonoBehaviour
         PlayerEvents.OnPlayerDeath += HandleGameOverUI;
         PlayerEvents.OnPlayerFinish += HandleFinishUI;
         PlayerScore.OnScoreChanged += UpdateScoreUI;
-        PlayerScore.OnHighScoreChanged += UpdateHighScoreUI;
+        PlayerHighScore.OnHighScoreChanged += UpdateHighScoreUI;
     }
 
     private void Start()
@@ -67,6 +67,6 @@ public class UI_Manager : MonoBehaviour
         PlayerEvents.OnPlayerDeath -= HandleGameOverUI;
         PlayerEvents.OnPlayerFinish -= HandleFinishUI;
         PlayerScore.OnScoreChanged -= UpdateScoreUI;
-        PlayerScore.OnHighScoreChanged -= UpdateHighScoreUI;
+        PlayerHighScore.OnHighScoreChanged -= UpdateHighScoreUI;
     }
 }

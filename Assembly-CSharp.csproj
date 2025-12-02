@@ -61,6 +61,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.61f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\2D and 3D Game\2D\Saving And Loading\GameStateManager.cs" />
     <Compile Include="Assets\AudienceNetwork\Library\ExtraHints.cs" />
     <Compile Include="Assets\Inputs\InputSystem_Actions.cs" />
     <Compile Include="Assets\Scripts\2D and 3D Game\3D\ObjectSpawner3D.cs" />
@@ -83,6 +84,7 @@
     <Compile Include="Assets\AudienceNetwork\Library\RewardedVideoAd.cs" />
     <Compile Include="Assets\Scripts\2D and 3D Game\3D\Camera3D.cs" />
     <Compile Include="Assets\Scripts\Ads\GoogleAds.cs" />
+    <Compile Include="Assets\Scripts\2D and 3D Game\Universal\PlayerHighScore.cs" />
     <Compile Include="Assets\Packages\_Heathen Engineering\Samples\UX Examples\Flat Icons [Free]\ToggleSetAnimatorBoolean.cs" />
     <Compile Include="Assets\Scripts\2D and 3D Game\3D\Player\PlayerMovment3D.cs" />
     <Compile Include="Assets\Scripts\2D and 3D Game\3D\Player\PlayerRotation3D.cs" />
@@ -92,8 +94,10 @@
     <Compile Include="Assets\Scripts\Enemy System\ChargingEnemy.cs" />
     <Compile Include="Assets\Scripts\UI\UI_Button.cs" />
     <Compile Include="Assets\Scripts\2D and 3D Game\2D\Interfaces\IDamageable2D.cs" />
+    <Compile Include="Assets\Scripts\2D and 3D Game\2D\Saving And Loading\SaveLoadManager.cs" />
     <Compile Include="Assets\Scripts\2D and 3D Game\2D\Scriptable Objects\Player2DHealthData.cs" />
     <Compile Include="Assets\Scripts\UI\UI_Manager.cs" />
+    <Compile Include="Assets\Scripts\2D and 3D Game\2D\Saving And Loading\SaveSystem2D.cs" />
     <Compile Include="Assets\Scripts\Enemy System\ScriptableObjects\HealthData.cs" />
     <Compile Include="Assets\Scripts\Ads\MetaAds.cs" />
     <Compile Include="Assets\Scripts\2D and 3D Game\2D\Player\PlayerCollisions2D.cs" />

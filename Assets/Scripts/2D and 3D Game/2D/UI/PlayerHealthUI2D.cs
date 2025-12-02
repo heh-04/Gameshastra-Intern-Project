@@ -9,21 +9,22 @@ public class PlayerHealthUI2D : MonoBehaviour
 
     private void OnEnable()
     {
-        PlayerEvents.OnPlayerHealthChanged += HealthChange;
+        PlayerEvents.OnPlayerHealthChanged += OnHealthChange;
+        PlayerEvents.OnCollectedHealthBerry += OnCollectedHealthBerry;
     }
 
     private void Start()
     {
         hearts = new List<Animator>();
-
-        for (int i = 0; i < playerHealthData.MaxHealth; i++)
-        {
-            Animator heart = Instantiate(heartPrefab, transform).GetComponent<Animator>();
-            hearts.Add(heart);
-        }
+        AddUIHearts(playerHealthData.StartingHealth, false);
     }
 
-    void HealthChange(int healthChange)
+    public void OnCollectedHealthBerry(string healthBerryId)
+    {
+        AddUIHearts(1, true);
+    }
+
+    void OnHealthChange(int healthChange)
     {
         if (healthChange > 0)
         {
@@ -66,8 +67,19 @@ public class PlayerHealthUI2D : MonoBehaviour
         }
     }
 
+    private void AddUIHearts(int number, bool depleted)
+    {
+        for (int i = 0; i < number; i++)
+        {
+            Animator heart = Instantiate(heartPrefab, transform).GetComponent<Animator>();
+            heart.SetBool("Depleted", depleted);
+            hearts.Add(heart);
+        }
+    }
+
     private void OnDisable()
     {
-        PlayerEvents.OnPlayerHealthChanged -= HealthChange;
+        PlayerEvents.OnPlayerHealthChanged -= OnHealthChange;
+        PlayerEvents.OnCollectedHealthBerry -= OnCollectedHealthBerry;
     }
 }

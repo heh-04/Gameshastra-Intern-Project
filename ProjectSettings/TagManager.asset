@@ -5,10 +5,11 @@ TagManager:
   serializedVersion: 3
   tags:
   - Obstacle
-  - Collectible
   - Ground
   - Spikes
   - Enemy
+  - HealthCollectible
+  - ScoreCollectible
   layers:
   - Default
   - TransparentFX

@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|c:\\users\\sarathchandrak\\gameshastra intern project\\assets\\scripts\\ads\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ads\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|c:\\users\\sarathchandrak\\gameshastra intern project\\assets\\scripts\\ui\\ui_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\assets\\scripts\\ads\\unityads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ads\\unityads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\assets\\scripts\\2d and 3d game\\universal\\playerhighscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\2d and 3d game\\universal\\playerhighscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\assets\\scripts\\ads\\metaads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ads\\metaads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|c:\\users\\sarathchandrak\\gameshastra intern project\\assets\\scripts\\2d and 3d game\\2d\\saving and loading\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\2d and 3d game\\2d\\saving and loading\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\assets\\scripts\\ads\\googleads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ads\\googleads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\assets\\scripts\\2d and 3d game\\universal\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\2d and 3d game\\universal\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\assets\\scripts\\2d and 3d game\\universal\\playerevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\2d and 3d game\\universal\\playerevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\assets\\scripts\\2d and 3d game\\2d\\player\\playercollisions2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C98217-F5F6-C470-5CA6-5F7F8C2528AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\2d and 3d game\\2d\\player\\playercollisions2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +39,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AdManager.cs",
-              "DocumentMoniker": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\Ads\\AdManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Ads\\AdManager.cs",
-              "ToolTip": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\Ads\\AdManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Ads\\AdManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UI_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\UI\\UI_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_Manager.cs",
+              "ToolTip": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\UI\\UI_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_Manager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:00:27.104Z",
+              "WhenOpened": "2025-12-02T13:02:20.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameStateManager.cs",
+              "DocumentMoniker": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\2D and 3D Game\\2D\\Saving And Loading\\GameStateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\2D and 3D Game\\2D\\Saving And Loading\\GameStateManager.cs",
+              "ToolTip": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\2D and 3D Game\\2D\\Saving And Loading\\GameStateManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\2D and 3D Game\\2D\\Saving And Loading\\GameStateManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:01:51.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerScore.cs",
+              "DocumentMoniker": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\2D and 3D Game\\Universal\\PlayerScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\2D and 3D Game\\Universal\\PlayerScore.cs",
+              "ToolTip": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\2D and 3D Game\\Universal\\PlayerScore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\2D and 3D Game\\Universal\\PlayerScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:09:52.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UnityAds.cs",
-              "DocumentMoniker": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\Ads\\UnityAds.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Ads\\UnityAds.cs",
-              "ToolTip": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\Ads\\UnityAds.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Ads\\UnityAds.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "PlayerHighScore.cs",
+              "DocumentMoniker": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\2D and 3D Game\\Universal\\PlayerHighScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\2D and 3D Game\\Universal\\PlayerHighScore.cs",
+              "ToolTip": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\2D and 3D Game\\Universal\\PlayerHighScore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\2D and 3D Game\\Universal\\PlayerHighScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:00:53.076Z"
+              "WhenOpened": "2025-12-02T12:48:27.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MetaAds.cs",
-              "DocumentMoniker": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\Ads\\MetaAds.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Ads\\MetaAds.cs",
-              "ToolTip": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\Ads\\MetaAds.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Ads\\MetaAds.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PlayerEvents.cs",
+              "DocumentMoniker": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\2D and 3D Game\\Universal\\PlayerEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\2D and 3D Game\\Universal\\PlayerEvents.cs",
+              "ToolTip": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\2D and 3D Game\\Universal\\PlayerEvents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\2D and 3D Game\\Universal\\PlayerEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:00:52.06Z"
+              "WhenOpened": "2025-12-02T12:11:20.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GoogleAds.cs",
-              "DocumentMoniker": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\Ads\\GoogleAds.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Ads\\GoogleAds.cs",
-              "ToolTip": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\Ads\\GoogleAds.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Ads\\GoogleAds.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "PlayerCollisions2D.cs",
+              "DocumentMoniker": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\2D and 3D Game\\2D\\Player\\PlayerCollisions2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\2D and 3D Game\\2D\\Player\\PlayerCollisions2D.cs",
+              "ToolTip": "C:\\Users\\sarathchandrak\\Gameshastra Intern Project\\Assets\\Scripts\\2D and 3D Game\\2D\\Player\\PlayerCollisions2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\2D and 3D Game\\2D\\Player\\PlayerCollisions2D.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwA8AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:00:51.463Z"
+              "WhenOpened": "2025-12-02T10:30:34.609Z"
             }
           ]
         }
